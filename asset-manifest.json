@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/datavizapp/static/css/main.073c9b0a.css",
+    "main.js": "/datavizapp/static/js/main.9f3ddd24.js",
+    "static/js/787.16ed183e.chunk.js": "/datavizapp/static/js/787.16ed183e.chunk.js",
+    "index.html": "/datavizapp/index.html",
+    "main.073c9b0a.css.map": "/datavizapp/static/css/main.073c9b0a.css.map",
+    "main.9f3ddd24.js.map": "/datavizapp/static/js/main.9f3ddd24.js.map",
+    "787.16ed183e.chunk.js.map": "/datavizapp/static/js/787.16ed183e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9f3ddd24.js"
+  ]
+}
